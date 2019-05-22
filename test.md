@@ -33,7 +33,7 @@ Con el objetivo de estudiar la diversidad de procariotas se llevan a cabo 6 paso
 
 Todo esta metodología se resume en la figura que se muestra a continuación:
 
-![Octocat](Pictures/codercat.jpg)
+![Octocat](codercat.jpg)
 
 
 ####Consideraciones*
