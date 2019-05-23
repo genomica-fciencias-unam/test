@@ -60,17 +60,19 @@ Se extrae el DNA con el kit de extracción PowerSoil de MoBio.
 
 ####1.1  PCR
 
-Luego de realizar la extracción de DNA se lleva a cabo un PCR en los siguientesd pasos:
+Luego de realizar la extracción de DNA se lleva a cabo un PCR en los siguientes pasos:
 
 1. Se amplifica una región en especifico ej. la región V3-V4 del 16S rRNA. 
 2. Utilizando las extracciones que se hicieron con anterioridad como templado + PCR Master Mix de Promega.
 3. El master mix contiene:
+
 -50 U/mL de Taq DNA polimerasa.
 -400 μM dATP.
 -400 μM dTTP.
 -400 μM dCTP.
 -buffer (pH 8.5).
 -3 mM MgCl2.
+
 4. Cada reacción presenta concentraciones específicas de todo los antes mencionado dependiendo de con que se trabaja. (ver secuenciación)
 5. Los oligonucleotidos que se emplean dependen por igual de la región a amplificar.
 6. Se utiliza el DNA de cepas como _Escherichia coli_ BW25113 o el de _Pseudomonas koreensis_ como control positivo.
@@ -131,6 +133,7 @@ Se realiza una secuenciación de tanto los apmlicones utilizados como del metage
 
 4. Continua desde el paso 6 hasta el 8 de PCR.
 5. Se cambian algunos pasos en cuanto se realiza el PCR: 
+
 * Desnaturalización inicial por 3 min a 94°C.
 * 5 ciclos de amplificación.
 * Cada ciclo 94°C por 30 s.(desnaturalización).
