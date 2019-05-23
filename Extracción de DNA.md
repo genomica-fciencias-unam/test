@@ -1,4 +1,5 @@
 ##1.Extracción de DNA
+
 Para extraer DNA de aislados en consorcios se relizan los siguientes pasos:
 
 1. Con palillos estériles se pican las colonias de los aislados de intéres.
