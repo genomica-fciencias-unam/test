@@ -9,7 +9,7 @@ El procedimiento general fue tomado de la tesis de maestría en ciencias biológ
 
 * La imagen que se muestra a continuación ilustra los pasos anteriores (1-4)
 
-![Octocat](/home/veronica/Pictures/Screenshot from 2019-05-02 11:33:53.png)
+![Octocat](PG1.png)
 
 5.De forma paralela a la caracterización, se realizó una selección de aislados para representar, a nivel de morfología de colonia, a la comunidad cultivable total (CCA),constituida por microorganismos aislados de la raíz de 4 especies de plantas.
 ![Octocat](/home/veronica/Pictures/Screenshot from 2019-05-02 11:33:53.png)
