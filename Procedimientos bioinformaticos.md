@@ -58,11 +58,11 @@ Primero se realiza un control de calidad con el programa Fastx v 36.06 que remue
 * eggNOG 4.5.1 *
 * SEED *
 
-######Consideraciones
+> Consideraciones
 
-1. Mediante el servidor Ghost Koala utilizando KEGG se descarga un archivo tabular con los (_KEGG Orthology_) anotados.
-2. Mediante el programa eggNOG 4.5.1 con la base de datos del mismo nombre, se obtiene una tabla con los _Cluster Orthologous Groups_ asignados.
-3. Mediante M5NR utilizando SEED se obtiene una tabla con los tres niveles de subsistemas de SEED.
+> Mediante el servidor Ghost Koala utilizando KEGG se descarga un archivo tabular con los (_KEGG Orthology_) anotados.
+> Mediante el programa eggNOG 4.5.1 con la base de datos del mismo nombre, se obtiene una tabla con los _Cluster Orthologous Groups_ asignados.
+> Mediante M5NR utilizando SEED se obtiene una tabla con los tres niveles de subsistemas de SEED.
 
 
 ######2.4  Reclutamiento de fragmentos
