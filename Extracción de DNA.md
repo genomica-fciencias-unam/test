@@ -66,12 +66,12 @@ Luego de realizar la extracción de DNA se lleva a cabo un PCR en los siguientes
 2. Utilizando las extracciones que se hicieron con anterioridad como templado + PCR Master Mix de Promega.
 3. El master mix contiene:
 
--50 U/mL de Taq DNA polimerasa.
--400 μM dATP.
--400 μM dTTP.
--400 μM dCTP.
--buffer (pH 8.5).
--3 mM MgCl2.
+- 50 U/mL de Taq DNA polimerasa.
+- 400 μM dATP.
+- 400 μM dTTP.
+- 400 μM dCTP.
+- buffer (pH 8.5).
+- 3 mM MgCl2.
 
 4. Cada reacción presenta concentraciones específicas de todo los antes mencionado dependiendo de con que se trabaja. (ver secuenciación)
 5. Los oligonucleotidos que se emplean dependen por igual de la región a amplificar.
