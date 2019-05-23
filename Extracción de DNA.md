@@ -134,7 +134,6 @@ Se realiza una secuenciación de tanto los apmlicones utilizados como del metage
 
 4. Continua desde el paso 6 hasta el 8 de PCR.
 5. Se cambian algunos pasos en cuanto se realiza el PCR: 
-
 * Desnaturalización inicial por 3 min a 94°C.
 * 5 ciclos de amplificación.
 * Cada ciclo 94°C por 30 s.(desnaturalización).
