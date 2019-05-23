@@ -2,8 +2,6 @@
 
 Este tipo de medios se utilizan para realizar ensayos de inhibición de crecimiento bacteriano
 
- En general se agrega jal minero pulverizado (en este caso) a medio liquido LB y se preparan 6 medios con diferentes concentraciones del jal minero en peso por ciento: 5,10,13,16,18 y 20%(masa/volumen).
-
 1. Con un mortero se pulveriza el jal hasta homogeneizar.
 2. Los medios de preparan en tubos de borosilicato (18 x160 mm) y matraces Erlenmeyer de vidrio (250mL)
 3. A ambos se les agrega la masa correspondiente de jal minero.
