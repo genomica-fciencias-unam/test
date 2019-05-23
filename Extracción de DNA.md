@@ -15,7 +15,8 @@ Para extraer DNA de aislados en consorcios se relizan los siguientes pasos:
 
 
 Se extrae el DNA con el kit de extracción PowerSoil de MoBio.
-13.El pellet celular se agrega a los tubos PowerBead.
+
+13. El pellet celular se agrega a los tubos PowerBead.
 14. Se mezcla con vortex.
 13. Se añaden 60 μL de SDS y solución C1*.
 14. Se invierten y mezclan con vortex.
