@@ -57,6 +57,10 @@ Donde el factor de dilución, FD, es igual al título de la solución original m
 -Luz Transmitida
 -Luz reflejada
 
+Como se observa a continuación en la siguiente imagen:
+
+![Octocat](Aislamiento.png)
+
 3.Se obtiene una matriz morfológica que se codifica con el paquete Calc de LibreOffice mediante la función vlookup.
 4.A partir de la matriz codificada se obtiene un código para cada aislado que se compone de los 8 caractéres codificados.
 5.Se obtiene lo que se conoce como "morfotipo".
