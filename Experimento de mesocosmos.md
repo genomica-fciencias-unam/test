@@ -42,8 +42,8 @@ Este experimento se lleva a cabo de la siguiente manera:
 
  En ejemplo  de como se agrupan los aislados se ilustra a continuación:
 
-![Octocat](/home/veronica/Pictures/Screenshot from 2019-05-02 16:06:42.png) 
-![Octocat](/home/veronica/Pictures/Screenshot from 2019-05-02 16:07:39.png)
+![Octocat](Mesocosmos.png) 
+![Octocat](Mesocosmos2.png)
 
 
 
