@@ -41,9 +41,10 @@ Este experimento se lleva a cabo de la siguiente manera:
  15.  Una vez que se inoculan todos los aislados los matraces se incuban a 28°C y 150 rpm.
 
  En ejemplo  de como se agrupan los aislados se ilustra a continuación:
-
-![Octocat](Mesocosmos.png) 
+ 
 ![Octocat](Mesocosmos2.png)
+![Octocat](Mesocosmos.png) 
+
 
 
 
