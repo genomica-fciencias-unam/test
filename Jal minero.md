@@ -3,18 +3,17 @@
 En este caso se utilixzan para el aislamiento de microorganismos de jal minero medio como:
 
 1. Medio LB
-
--5 g de extracto de levadura.
--5 g de NaCl.
--10 g de triptona.
--1L de H20.
+- 5 g de extracto de levadura.
+- 5 g de NaCl.
+- 10 g de triptona.
+- 1L de H20.
 
 2. Medio PY
 
--5g de peptona.
--3 g de extracto de levadura.
--7 μM de CaCl2.
--1L de H20
+- 5g de peptona.
+- 3 g de extracto de levadura.
+- 7 μM de CaCl2.
+- 1L de H20
 
 3. Para preparar medios sólidos
 
