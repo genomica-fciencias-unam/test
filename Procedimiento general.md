@@ -12,6 +12,7 @@ El procedimiento general fue tomado de la tesis de maestría en ciencias biológ
 ![Octocat](PG3.png)
 
 5.De forma paralela a la caracterización, se realizó una selección de aislados para representar, a nivel de morfología de colonia, a la comunidad cultivable total (CCA),constituida por microorganismos aislados de la raíz de 4 especies de plantas.
+
 ![Octocat](PG1.png)
 
 6.Por otro lado, los aislados del CCA fueron el inóculo de un experimento de mesocosmos de aclimatación y selección realizdo bajo un contexto de ecología sintética/evolución experimental, como se observa en la imagen que se muestra a continuación del lado derecho:
